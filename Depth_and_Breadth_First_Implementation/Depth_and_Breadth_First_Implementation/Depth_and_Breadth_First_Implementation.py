@@ -1,5 +1,3 @@
-from collections import defaultdict
-
 def depthFirst(nodeDictionary):
     openList = []
     closedList = []
